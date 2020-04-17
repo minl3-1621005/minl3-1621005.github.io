@@ -1,0 +1,211 @@
+body {
+    text-align: center;
+    background-image: url('dark_wood.png');
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+
+
+a {
+    color: white;
+
+    /* Condensed the font */
+    font-stretch: condensed;
+    font-size: 24px;
+    font-weight: bold;
+
+    /* Added subtle text shadow */
+    text-shadow: 2px 2px rgb(0, 26, 255);
+}
+
+div {
+    background-color: #8e41d5;
+    color: white;
+}
+
+h3 {
+    color: #ffbc00;
+    font-family: 'Passion One', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 0px;
+    
+}
+
+p {
+    font-family: "Arial";
+    font-weight: bold;
+}
+
+#Header {
+    border:8px black solid;
+
+    /* Change the border left and right color */
+    border-left-color: coral;
+    border-right-color: crimson;
+
+    width: 500px;
+    margin-left: auto
+    margin-right: auto; 
+
+    margin-bottom: 10px;
+}
+
+#Header h1 {
+    font-size: 60px;
+    font-family: 'Passion One', cursive;
+    color: #ffbc00;
+    font-weight: bold;
+
+    /* Spaces the words out to 30px */
+    word-spacing: 30px;
+}
+
+#LeftNav {
+    border:8px black solid;
+
+    /* Included a dotted border */
+    border-style: dotted;
+    
+
+    width: 400px;
+    margin-left: auto
+    margin-right: auto; 
+
+    margin-bottom: 10px;
+
+    float: left;
+    padding-bottom: 8px;
+}
+
+#Content {
+    border:8px black solid;
+
+    width: 700px;
+    margin-left: auto
+    margin-right: auto; 
+
+    margin-bottom: 10px;
+
+    padding: 15px;
+}
+
+#Footer {
+    border:8px black solid; 
+    margin-left: auto
+    margin-right: auto; 
+  
+}
+
+#bow {
+    color:#ffbc00;
+
+    /* Underline and overline this part of the text */
+    -webkit-text-decoration-line: overline underline; /* Safari */
+    text-decoration-line: overline underline; 
+    
+
+}
+
+body {
+    text-align:center;
+    background-image:url(dark_wood.png)
+}
+
+ul {
+    
+    list-style-type:none;
+    padding-left:0
+
+}
+
+a {
+    
+    color:#fff;
+    font-stretch:condensed;
+    font-size:24px;
+    font-weight:700;
+    text-shadow:2px 2px #001aff
+}
+
+ div {
+     
+     background-color:#8e41d5;
+     color:#fff
+}
+
+h3 {
+
+    color:#ffbc00;
+    font-family:'Passion One',cursive;
+    font-weight:700;
+    font-size:40px;
+    margin-bottom:0
+    
+}
+
+p {
+    font-family:Arial;
+    font-weight:700
+
+}
+
+#Header {
+    border:8px #000 solid;
+    border-left-color:coral;
+    border-right-color:#dc143c;
+    width:500px;margin-left:
+    auto margin-right: auto;
+    margin-bottom:10px
+    
+}
+    
+#Header h1 {
+    font-size:60px;
+    font-family:'Passion One',cursive;
+    color:#ffbc00;
+    font-weight:700;
+    word-spacing:30px
+
+}
+
+#LeftNav {
+    
+    border:8px #000 solid;
+    border-style:dotted;
+    width:400px;
+    margin-left:auto margin-right: auto;
+    margin-bottom:10px;
+    float:left;
+    padding-bottom:8px
+
+}
+
+#Content {
+    border:8px #000 solid;
+    width:700px;
+    margin-left: auto
+     margin-right: auto;
+    margin-bottom:10px;
+    padding:15px
+
+}
+
+#Footer {
+    border:8px #000 solid;
+    margin-left:auto
+    margin-right: auto
+
+}
+
+#bow {
+    color:#ffbc00;
+    -webkit-text-decoration-line:overline underline;
+    text-decoration-line:overline underline
+    
+}
+
+
+
